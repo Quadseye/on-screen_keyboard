@@ -1,0 +1,8 @@
+{
+  "name": "Win11 Virtual Keyboard & Shell",
+  "description": "A resizable, Windows 11-styled on-screen keyboard featuring a simulated PowerShell environment and AI-powered command generation.",
+  "requestFramePermissions": [
+    "microphone",
+    "clipboard-read"
+  ]
+}
